@@ -1,0 +1,65 @@
+body{
+    background-color: rgb(46, 54, 61);
+}
+h1{
+    padding-top: 15px;
+}
+.container{
+    text-align: center;
+    border: solid black;
+    background-color: black;
+    color: #E7E9EA;
+    border-radius: 17px;
+    width: 400px;
+    height: 450px;
+    margin: auto;
+    margin-top: 110px;
+}
+.google{
+    background-color: #E7E9EA;
+    border: 1px solid #E7E9EA;
+    color: darkslategray;
+    border-radius: 25px;
+    width: 55%;
+    margin-top: 15px;
+    padding: 10px;
+    cursor: pointer;
+}
+.apple{
+    background-color: #E7E9EA;
+    border: 1px solid #E7E9EA;
+    color: darkslategray;
+    border-radius: 25px;
+    width: 55%;
+    margin-top: 20px;
+    padding: 10px;
+    cursor: pointer;
+}
+.username{
+    background-color: black;
+    color: #E7E9EA;
+    width:55%;
+    border: 1px solid darkgrey;
+    border-radius: 6px;
+    padding: 12px;
+    margin-top: 30px;
+}
+.password{
+    background-color: black;
+    color: #E7E9EA;
+    width:55%;
+    border: 1px solid darkgrey;
+    border-radius: 6px;
+    padding: 12px;
+    margin-top: 15px;
+}
+.signup{
+    background-color: #E7E9EA;
+    border: 1px solid #E7E9EA;
+    color: black;
+    border-radius: 25px;
+    width: 55%;
+    margin-top: 40px;
+    padding: 10px;
+    cursor: pointer;
+}
